@@ -1,0 +1,17 @@
+.about-tq {
+    font-family: 'visby-bold';
+    font-size: bold;
+}
+
+.tq {
+    padding-left: 250px;
+    text-align: center;
+    font-family: 'visby-bold';
+    font-size: bold;
+    color: white;
+}
+
+.tq-items {
+    color: white;
+    padding-top: 20px;
+}
